@@ -95,7 +95,7 @@ Solution planning, considering the business context.
   - Performance comparison of models with SS Score in each space.
   - Choose the best model and number of groups, considering performance and ease of decision-making for the business.
   - Perform silhouette analysis to verify the quality of clustering.
-  - 
+  
 ## Machine Learning Modeling:
   - Run the chosen algorithm with chosen parameters and number of K, in the chosen data space.
   - Confirm performance with SS Score.
