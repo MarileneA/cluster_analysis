@@ -76,7 +76,9 @@ Solution planning, considering the business context.
   - Analyze variables with high variability, candidates for model input.
   - Analyze inconsistent outliers in order to filter them in the next cycles.
   - Perform a bivariate analysis, visually identifying variables without variability.
-
+## RFM Analysis
+  - RFM Analysis is a scientifically controlled marketing method used to group your company's customers based on purchasing behavior, measuring and analyzing consumption habits in terms of Frequency, Recency and Monetary.
+  
 ## Data Preparation:
   - Apply transformations to features, facilitating model learning.
 
